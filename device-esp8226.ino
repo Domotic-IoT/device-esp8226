@@ -17,8 +17,8 @@ DHT dht(DHTPIN, DHTTYPE);
 #define WIFI_SSID        ""
 #define WIFI_PASSWORD    ""
 
-#define MQTT_SERVER      "" //"192.168.0.14"
-#define MQTT_PORT        8883 //1883
+#define MQTT_SERVER      ""
+#define MQTT_PORT        8883
 #define MQTT_USER        ""
 #define MQTT_PASSWORD    ""
 #define MQTT_CLIENT_NAME "DTH11-01"
